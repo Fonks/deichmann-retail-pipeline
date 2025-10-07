@@ -1,0 +1,201 @@
+product_id,product_name,brand,category,gender,season,price,cost,size_range,color_options,launch_date,is_active
+PRD00001,Puma Sneakers Classic,Puma,Sneakers,Women,Fall/Winter,94.0,56.4,37-44,7,2022-11-09,False
+PRD00002,Ellie Slippers Comfort,Ellie,Slippers,Kids,Spring/Summer,34.98,20.99,36-46,4,2020-03-19,True
+PRD00003,Graceland Kids Shoes Style,Graceland,Kids Shoes,Kids,All Season,122.23,73.34,35-45,6,2021-01-24,True
+PRD00004,Deichmann Kids Shoes Premium,Deichmann,Kids Shoes,Men,All Season,140.31,84.19,36-44,5,2020-05-23,True
+PRD00005,Graceland Casual Shoes Premium,Graceland,Casual Shoes,Men,All Season,137.0,82.2,37-45,4,2022-04-04,True
+PRD00006,Rieker Sandals Style,Rieker,Sandals,Women,Fall/Winter,106.43,63.86,36-46,6,2021-09-08,False
+PRD00007,Rieker Sneakers Premium,Rieker,Sneakers,Kids,Fall/Winter,47.31,28.39,37-45,5,2022-06-24,True
+PRD00008,Rieker High Heels Premium,Rieker,High Heels,Women,All Season,31.01,18.61,37-42,8,2024-03-18,True
+PRD00009,Ellie Sports Shoes Classic,Ellie,Sports Shoes,Women,Spring/Summer,39.15,23.49,36-45,6,2024-10-06,True
+PRD00010,Tamaris Kids Shoes Style,Tamaris,Kids Shoes,Women,All Season,110.52,66.31,38-43,3,2023-09-05,True
+PRD00011,Nike Kids Shoes Premium,Nike,Kids Shoes,Women,Spring/Summer,186.79,112.07,38-42,6,2021-05-25,True
+PRD00012,Tamaris Sandals Premium,Tamaris,Sandals,Unisex,All Season,89.04,53.42,37-45,6,2024-07-27,False
+PRD00013,Rieker High Heels Style,Rieker,High Heels,Women,All Season,131.98,79.19,37-43,8,2023-07-29,True
+PRD00014,Rieker High Heels Comfort,Rieker,High Heels,Women,Fall/Winter,77.17,46.3,36-44,4,2021-10-16,True
+PRD00015,Adidas Sandals Sport,Adidas,Sandals,Women,Fall/Winter,165.31,99.18,35-45,5,2021-11-08,False
+PRD00016,Skechers Sneakers Premium,Skechers,Sneakers,Women,Fall/Winter,70.62,42.37,35-46,5,2022-09-03,True
+PRD00017,Converse Sports Shoes Premium,Converse,Sports Shoes,Unisex,Fall/Winter,89.96,53.98,36-45,3,2021-07-12,False
+PRD00018,Tamaris Sneakers Style,Tamaris,Sneakers,Unisex,Fall/Winter,106.94,64.17,36-45,3,2023-06-28,True
+PRD00019,Skechers Sneakers Style,Skechers,Sneakers,Men,All Season,75.71,45.43,36-42,4,2022-02-15,True
+PRD00020,Puma High Heels Style,Puma,High Heels,Kids,Fall/Winter,178.42,107.05,37-45,4,2024-09-05,True
+PRD00021,Tamaris Sneakers Classic,Tamaris,Sneakers,Men,Fall/Winter,49.14,29.48,35-42,3,2021-02-12,True
+PRD00022,Graceland Sandals Classic,Graceland,Sandals,Women,Spring/Summer,81.55,48.93,36-45,7,2021-06-08,True
+PRD00023,Adidas Boots Classic,Adidas,Boots,Women,Fall/Winter,51.06,30.64,37-46,7,2022-02-07,False
+PRD00024,Victory Formal Shoes Sport,Victory,Formal Shoes,Men,All Season,109.77,65.86,35-44,8,2023-11-02,True
+PRD00025,Graceland Sneakers Comfort,Graceland,Sneakers,Kids,All Season,75.68,45.41,35-46,7,2021-11-29,True
+PRD00026,Skechers High Heels Style,Skechers,High Heels,Men,Fall/Winter,144.89,86.94,36-45,3,2024-02-11,True
+PRD00027,Graceland Slippers Premium,Graceland,Slippers,Unisex,Fall/Winter,76.61,45.97,37-44,8,2021-05-17,True
+PRD00028,Vans High Heels Style,Vans,High Heels,Women,Fall/Winter,94.07,56.44,37-42,5,2024-10-08,True
+PRD00029,Adidas High Heels Comfort,Adidas,High Heels,Women,Fall/Winter,185.56,111.34,37-46,7,2021-07-19,True
+PRD00030,Rieker Formal Shoes Style,Rieker,Formal Shoes,Men,Spring/Summer,113.6,68.16,36-45,7,2023-12-28,False
+PRD00031,Tamaris Sneakers Sport,Tamaris,Sneakers,Men,Fall/Winter,48.8,29.28,37-46,4,2022-08-27,True
+PRD00032,Skechers Slippers Comfort,Skechers,Slippers,Kids,Fall/Winter,111.36,66.82,37-44,3,2020-09-04,True
+PRD00033,Converse Boots Style,Converse,Boots,Women,Spring/Summer,48.12,28.87,37-46,8,2022-12-10,True
+PRD00034,Nike Formal Shoes Comfort,Nike,Formal Shoes,Kids,Spring/Summer,100.36,60.21,35-46,3,2021-07-15,True
+PRD00035,Deichmann Slippers Style,Deichmann,Slippers,Kids,All Season,142.72,85.63,35-42,6,2021-08-05,False
+PRD00036,Tamaris High Heels Comfort,Tamaris,High Heels,Kids,Spring/Summer,145.5,87.3,38-42,8,2020-05-13,False
+PRD00037,Tamaris Boots Premium,Tamaris,Boots,Men,Spring/Summer,39.39,23.63,37-42,3,2020-08-30,False
+PRD00038,Graceland Formal Shoes Comfort,Graceland,Formal Shoes,Unisex,Fall/Winter,138.1,82.86,38-44,6,2023-06-25,True
+PRD00039,Graceland Boots Classic,Graceland,Boots,Women,All Season,47.42,28.45,36-43,3,2023-02-04,True
+PRD00040,Adidas Sneakers Style,Adidas,Sneakers,Unisex,Fall/Winter,164.41,98.65,37-42,3,2021-08-13,True
+PRD00041,Victory High Heels Comfort,Victory,High Heels,Men,All Season,50.34,30.2,36-45,2,2023-01-20,True
+PRD00042,Ellie Sandals Sport,Ellie,Sandals,Kids,Spring/Summer,29.27,17.56,37-46,7,2024-08-15,True
+PRD00043,Tamaris Boots Style,Tamaris,Boots,Unisex,All Season,59.52,35.71,37-46,6,2022-10-08,False
+PRD00044,Nike Sneakers Comfort,Nike,Sneakers,Unisex,All Season,92.84,55.7,35-42,3,2023-10-12,True
+PRD00045,Ellie Sports Shoes Style,Ellie,Sports Shoes,Men,Spring/Summer,81.16,48.69,37-43,6,2022-06-11,False
+PRD00046,Nike High Heels Classic,Nike,High Heels,Kids,Fall/Winter,94.98,56.99,36-44,5,2023-11-21,False
+PRD00047,Vans Kids Shoes Comfort,Vans,Kids Shoes,Men,Fall/Winter,31.44,18.86,37-42,8,2022-04-07,True
+PRD00048,Ellie Slippers Premium,Ellie,Slippers,Unisex,Fall/Winter,27.04,16.22,37-46,8,2022-10-17,False
+PRD00049,Deichmann Formal Shoes Comfort,Deichmann,Formal Shoes,Kids,All Season,37.02,22.21,38-45,2,2020-02-29,True
+PRD00050,Victory Sandals Style,Victory,Sandals,Kids,All Season,21.77,13.06,35-43,8,2020-08-20,False
+PRD00051,Nike Sandals Comfort,Nike,Sandals,Unisex,All Season,86.9,52.14,38-45,5,2021-05-14,False
+PRD00052,Rieker Sandals Premium,Rieker,Sandals,Unisex,Spring/Summer,139.83,83.9,36-42,4,2024-05-01,False
+PRD00053,Converse Slippers Comfort,Converse,Slippers,Kids,Spring/Summer,56.76,34.06,38-43,5,2023-01-08,False
+PRD00054,Converse Casual Shoes Sport,Converse,Casual Shoes,Unisex,Fall/Winter,141.26,84.76,36-46,5,2021-04-23,False
+PRD00055,Deichmann Casual Shoes Style,Deichmann,Casual Shoes,Unisex,All Season,138.74,83.24,38-43,5,2020-03-16,True
+PRD00056,Rieker Casual Shoes Style,Rieker,Casual Shoes,Men,Fall/Winter,32.95,19.77,35-43,5,2024-11-18,True
+PRD00057,Nike High Heels Style,Nike,High Heels,Kids,Fall/Winter,151.52,90.91,35-44,8,2023-10-13,False
+PRD00058,Converse High Heels Comfort,Converse,High Heels,Men,All Season,28.88,17.33,36-42,5,2020-07-20,True
+PRD00059,Tamaris Sandals Classic,Tamaris,Sandals,Kids,Spring/Summer,25.97,15.58,37-44,4,2022-06-01,True
+PRD00060,Puma Slippers Sport,Puma,Slippers,Unisex,All Season,162.94,97.76,36-43,2,2023-06-02,False
+PRD00061,Graceland Formal Shoes Style,Graceland,Formal Shoes,Unisex,All Season,38.6,23.16,37-45,4,2023-09-27,True
+PRD00062,Tamaris Sports Shoes Comfort,Tamaris,Sports Shoes,Women,Spring/Summer,77.41,46.45,37-45,7,2021-05-27,False
+PRD00063,Vans Formal Shoes Style,Vans,Formal Shoes,Unisex,Fall/Winter,33.85,20.31,37-46,4,2023-12-03,True
+PRD00064,Deichmann Kids Shoes Classic,Deichmann,Kids Shoes,Kids,Spring/Summer,93.56,56.14,38-44,8,2024-06-24,True
+PRD00065,Graceland Casual Shoes Comfort,Graceland,Casual Shoes,Women,All Season,44.71,26.82,36-42,7,2023-08-16,True
+PRD00066,Vans High Heels Sport,Vans,High Heels,Men,All Season,67.42,40.45,35-44,4,2024-03-10,False
+PRD00067,Adidas Formal Shoes Comfort,Adidas,Formal Shoes,Women,All Season,200.89,120.54,37-43,4,2024-08-15,False
+PRD00068,Vans Casual Shoes Sport,Vans,Casual Shoes,Men,Fall/Winter,145.17,87.1,36-45,8,2024-07-05,True
+PRD00069,Nike Kids Shoes Style,Nike,Kids Shoes,Men,Fall/Winter,134.62,80.77,37-44,6,2022-02-19,True
+PRD00070,Nike Formal Shoes Premium,Nike,Formal Shoes,Unisex,Spring/Summer,150.8,90.48,37-46,3,2023-08-19,True
+PRD00071,Ellie High Heels Sport,Ellie,High Heels,Kids,All Season,73.07,43.84,35-42,4,2022-10-05,True
+PRD00072,Nike Formal Shoes Premium,Nike,Formal Shoes,Women,Fall/Winter,118.45,71.07,38-46,7,2024-01-28,True
+PRD00073,Skechers Boots Comfort,Skechers,Boots,Unisex,All Season,73.05,43.83,35-44,3,2022-06-27,False
+PRD00074,Puma Casual Shoes Comfort,Puma,Casual Shoes,Men,All Season,101.62,60.97,35-45,4,2021-01-23,True
+PRD00075,Tamaris Boots Classic,Tamaris,Boots,Women,All Season,103.12,61.87,35-44,3,2020-09-14,True
+PRD00076,Nike Slippers Sport,Nike,Slippers,Women,All Season,72.1,43.26,37-43,8,2023-05-05,True
+PRD00077,Vans Sandals Sport,Vans,Sandals,Women,All Season,52.58,31.55,35-42,3,2020-01-31,True
+PRD00078,Puma Casual Shoes Sport,Puma,Casual Shoes,Men,Spring/Summer,81.73,49.04,38-46,2,2024-03-07,True
+PRD00079,Tamaris High Heels Style,Tamaris,High Heels,Kids,All Season,97.17,58.3,36-46,2,2024-01-29,True
+PRD00080,Tamaris Sneakers Style,Tamaris,Sneakers,Men,Fall/Winter,130.14,78.08,35-45,7,2022-06-27,True
+PRD00081,Nike Casual Shoes Premium,Nike,Casual Shoes,Women,Spring/Summer,54.59,32.76,37-45,6,2022-12-22,True
+PRD00082,Tamaris Slippers Classic,Tamaris,Slippers,Unisex,Spring/Summer,123.09,73.86,36-45,5,2021-04-12,False
+PRD00083,Converse High Heels Comfort,Converse,High Heels,Unisex,Fall/Winter,114.84,68.9,38-44,7,2021-06-06,True
+PRD00084,Adidas High Heels Classic,Adidas,High Heels,Men,Spring/Summer,192.18,115.31,38-42,7,2024-02-22,True
+PRD00085,Adidas Slippers Premium,Adidas,Slippers,Men,All Season,216.53,129.92,37-42,5,2021-12-25,False
+PRD00086,Victory Sneakers Classic,Victory,Sneakers,Kids,All Season,60.61,36.37,36-43,7,2022-09-14,True
+PRD00087,Nike Casual Shoes Premium,Nike,Casual Shoes,Kids,Spring/Summer,178.69,107.22,36-45,8,2023-02-22,True
+PRD00088,Graceland Sports Shoes Comfort,Graceland,Sports Shoes,Men,Spring/Summer,55.52,33.31,37-44,2,2021-01-06,True
+PRD00089,Graceland Kids Shoes Classic,Graceland,Kids Shoes,Men,Spring/Summer,116.32,69.79,35-46,3,2022-02-09,False
+PRD00090,Tamaris Casual Shoes Comfort,Tamaris,Casual Shoes,Women,Fall/Winter,60.5,36.3,35-42,3,2020-11-18,True
+PRD00091,Ellie Boots Style,Ellie,Boots,Kids,Fall/Winter,106.04,63.63,38-45,4,2021-03-17,True
+PRD00092,Converse Kids Shoes Premium,Converse,Kids Shoes,Men,Fall/Winter,108.16,64.89,38-46,7,2021-09-23,True
+PRD00093,Puma Kids Shoes Sport,Puma,Kids Shoes,Men,Spring/Summer,69.85,41.91,36-44,4,2021-11-02,True
+PRD00094,Deichmann High Heels Premium,Deichmann,High Heels,Unisex,Spring/Summer,36.78,22.07,36-46,6,2024-09-02,True
+PRD00095,Nike Kids Shoes Classic,Nike,Kids Shoes,Men,Fall/Winter,33.64,20.18,37-46,5,2023-03-20,False
+PRD00096,Victory Kids Shoes Comfort,Victory,Kids Shoes,Kids,Spring/Summer,72.64,43.59,36-46,5,2024-08-30,True
+PRD00097,Nike Kids Shoes Style,Nike,Kids Shoes,Men,Spring/Summer,114.94,68.97,35-45,8,2021-09-27,True
+PRD00098,Puma Casual Shoes Classic,Puma,Casual Shoes,Women,Spring/Summer,129.53,77.72,36-44,4,2024-01-29,True
+PRD00099,Puma Boots Premium,Puma,Boots,Women,Fall/Winter,68.45,41.07,36-42,3,2024-05-01,False
+PRD00100,Tamaris High Heels Style,Tamaris,High Heels,Kids,All Season,61.09,36.65,35-45,5,2023-07-17,True
+PRD00101,Vans Sneakers Style,Vans,Sneakers,Kids,All Season,29.63,17.78,38-42,2,2022-01-25,True
+PRD00102,Nike Boots Classic,Nike,Boots,Unisex,Fall/Winter,143.15,85.89,38-46,7,2021-01-20,True
+PRD00103,Graceland High Heels Comfort,Graceland,High Heels,Women,Spring/Summer,78.56,47.13,35-46,7,2020-12-19,True
+PRD00104,Puma High Heels Sport,Puma,High Heels,Unisex,All Season,131.92,79.15,37-44,4,2022-03-04,False
+PRD00105,Converse Sneakers Premium,Converse,Sneakers,Kids,Spring/Summer,62.85,37.71,38-44,4,2024-01-22,True
+PRD00106,Converse Boots Style,Converse,Boots,Women,Fall/Winter,60.32,36.19,36-46,7,2020-06-22,True
+PRD00107,Rieker Kids Shoes Premium,Rieker,Kids Shoes,Kids,Spring/Summer,107.11,64.26,35-45,6,2022-01-11,True
+PRD00108,Converse Sports Shoes Style,Converse,Sports Shoes,Women,Spring/Summer,64.42,38.65,36-43,3,2020-11-13,True
+PRD00109,Vans Boots Premium,Vans,Boots,Men,All Season,63.77,38.26,36-46,5,2020-11-11,True
+PRD00110,Adidas Sandals Sport,Adidas,Sandals,Unisex,Spring/Summer,110.1,66.06,38-46,4,2024-03-20,False
+PRD00111,Puma Slippers Style,Puma,Slippers,Women,Fall/Winter,218.28,130.97,36-44,7,2023-03-14,False
+PRD00112,Tamaris Sports Shoes Sport,Tamaris,Sports Shoes,Unisex,All Season,88.56,53.14,36-46,3,2024-11-22,True
+PRD00113,Deichmann High Heels Premium,Deichmann,High Heels,Kids,All Season,141.45,84.87,35-44,2,2024-04-11,True
+PRD00114,Vans High Heels Sport,Vans,High Heels,Women,Fall/Winter,31.91,19.15,38-44,2,2022-04-29,True
+PRD00115,Skechers Slippers Classic,Skechers,Slippers,Kids,Spring/Summer,70.19,42.11,37-43,2,2021-10-14,True
+PRD00116,Victory Casual Shoes Style,Victory,Casual Shoes,Women,Spring/Summer,24.97,14.98,36-45,5,2023-06-14,True
+PRD00117,Nike Sneakers Premium,Nike,Sneakers,Kids,Spring/Summer,192.8,115.68,38-42,8,2021-08-13,True
+PRD00118,Vans Boots Premium,Vans,Boots,Men,Spring/Summer,74.57,44.74,38-42,2,2024-09-09,False
+PRD00119,Graceland Slippers Sport,Graceland,Slippers,Men,All Season,86.99,52.19,36-44,5,2020-01-04,True
+PRD00120,Puma Kids Shoes Premium,Puma,Kids Shoes,Women,All Season,160.29,96.17,37-42,6,2023-01-19,True
+PRD00121,Skechers High Heels Comfort,Skechers,High Heels,Men,All Season,70.28,42.17,37-42,4,2024-06-02,True
+PRD00122,Converse Formal Shoes Comfort,Converse,Formal Shoes,Men,All Season,115.56,69.34,36-42,4,2023-01-23,True
+PRD00123,Ellie Sandals Sport,Ellie,Sandals,Unisex,All Season,82.2,49.32,36-42,7,2024-05-08,False
+PRD00124,Deichmann Sports Shoes Classic,Deichmann,Sports Shoes,Women,Spring/Summer,122.83,73.7,37-44,6,2022-03-26,False
+PRD00125,Vans Sneakers Classic,Vans,Sneakers,Women,Fall/Winter,66.4,39.84,37-44,2,2024-06-25,True
+PRD00126,Skechers Kids Shoes Sport,Skechers,Kids Shoes,Unisex,Fall/Winter,64.06,38.44,38-45,4,2024-06-20,True
+PRD00127,Nike Kids Shoes Sport,Nike,Kids Shoes,Men,Fall/Winter,147.46,88.48,37-44,2,2020-06-12,True
+PRD00128,Ellie Sports Shoes Style,Ellie,Sports Shoes,Kids,Fall/Winter,98.33,59.0,36-45,4,2022-07-04,True
+PRD00129,Victory Casual Shoes Classic,Victory,Casual Shoes,Unisex,Fall/Winter,103.12,61.87,35-45,4,2022-11-16,True
+PRD00130,Deichmann Sandals Sport,Deichmann,Sandals,Unisex,Spring/Summer,36.4,21.84,37-44,5,2023-03-07,True
+PRD00131,Graceland Sandals Classic,Graceland,Sandals,Unisex,Fall/Winter,68.35,41.01,36-46,4,2022-03-26,True
+PRD00132,Ellie Sports Shoes Sport,Ellie,Sports Shoes,Women,Spring/Summer,23.36,14.02,38-46,5,2023-02-24,True
+PRD00133,Vans Sports Shoes Comfort,Vans,Sports Shoes,Unisex,Spring/Summer,149.52,89.71,38-43,2,2020-10-04,True
+PRD00134,Tamaris Sandals Comfort,Tamaris,Sandals,Unisex,Spring/Summer,125.36,75.21,37-42,6,2023-01-15,True
+PRD00135,Vans Sandals Classic,Vans,Sandals,Women,Fall/Winter,86.13,51.68,36-43,3,2024-06-06,False
+PRD00136,Deichmann Casual Shoes Premium,Deichmann,Casual Shoes,Kids,Fall/Winter,124.47,74.68,36-46,2,2020-05-14,True
+PRD00137,Skechers High Heels Classic,Skechers,High Heels,Unisex,Fall/Winter,127.02,76.21,36-44,7,2020-05-31,False
+PRD00138,Tamaris Slippers Premium,Tamaris,Slippers,Kids,Spring/Summer,134.12,80.47,36-43,5,2022-10-26,True
+PRD00139,Nike Slippers Comfort,Nike,Slippers,Women,Fall/Winter,62.09,37.26,36-44,6,2021-08-04,True
+PRD00140,Vans Formal Shoes Premium,Vans,Formal Shoes,Kids,Spring/Summer,101.24,60.75,35-46,7,2020-12-11,True
+PRD00141,Adidas Casual Shoes Premium,Adidas,Casual Shoes,Men,Spring/Summer,45.82,27.49,37-43,8,2023-03-17,False
+PRD00142,Graceland Sneakers Comfort,Graceland,Sneakers,Unisex,All Season,90.92,54.55,38-43,8,2024-07-11,False
+PRD00143,Vans High Heels Style,Vans,High Heels,Men,All Season,27.78,16.67,38-45,5,2021-02-21,True
+PRD00144,Graceland Sandals Comfort,Graceland,Sandals,Kids,All Season,61.5,36.9,38-43,8,2022-01-28,True
+PRD00145,Converse Formal Shoes Sport,Converse,Formal Shoes,Unisex,Spring/Summer,54.76,32.86,36-42,2,2021-08-17,False
+PRD00146,Graceland Kids Shoes Premium,Graceland,Kids Shoes,Women,Spring/Summer,125.74,75.45,37-43,8,2020-11-22,False
+PRD00147,Rieker High Heels Classic,Rieker,High Heels,Unisex,Fall/Winter,84.65,50.79,38-46,5,2021-05-08,True
+PRD00148,Graceland Casual Shoes Premium,Graceland,Casual Shoes,Men,Spring/Summer,56.57,33.94,38-44,6,2020-01-17,True
+PRD00149,Skechers Sandals Style,Skechers,Sandals,Kids,All Season,67.54,40.52,37-42,5,2020-04-14,True
+PRD00150,Converse Slippers Style,Converse,Slippers,Kids,Spring/Summer,70.22,42.13,37-46,7,2023-06-05,True
+PRD00151,Adidas Boots Comfort,Adidas,Boots,Unisex,Fall/Winter,184.99,110.99,37-43,3,2023-05-18,False
+PRD00152,Rieker Sneakers Comfort,Rieker,Sneakers,Men,Spring/Summer,37.8,22.68,38-46,5,2020-11-01,True
+PRD00153,Converse Casual Shoes Comfort,Converse,Casual Shoes,Women,Fall/Winter,148.77,89.26,37-46,8,2022-11-09,False
+PRD00154,Victory Sports Shoes Classic,Victory,Sports Shoes,Unisex,Spring/Summer,67.88,40.73,38-46,4,2024-06-19,True
+PRD00155,Graceland High Heels Premium,Graceland,High Heels,Kids,All Season,121.77,73.06,36-42,6,2022-09-10,True
+PRD00156,Rieker Kids Shoes Premium,Rieker,Kids Shoes,Women,All Season,51.48,30.89,35-43,2,2022-06-22,True
+PRD00157,Skechers Sandals Premium,Skechers,Sandals,Unisex,All Season,46.5,27.9,38-42,7,2020-10-09,True
+PRD00158,Rieker Casual Shoes Sport,Rieker,Casual Shoes,Unisex,All Season,68.98,41.39,38-46,4,2023-01-23,True
+PRD00159,Ellie Sports Shoes Comfort,Ellie,Sports Shoes,Unisex,Spring/Summer,144.44,86.67,37-43,4,2024-04-28,True
+PRD00160,Victory Formal Shoes Premium,Victory,Formal Shoes,Unisex,Fall/Winter,82.36,49.42,37-44,2,2023-03-20,False
+PRD00161,Skechers Casual Shoes Classic,Skechers,Casual Shoes,Women,Fall/Winter,25.46,15.28,37-45,7,2021-06-09,False
+PRD00162,Puma Formal Shoes Sport,Puma,Formal Shoes,Kids,All Season,165.74,99.44,35-46,7,2023-04-16,True
+PRD00163,Puma Sneakers Classic,Puma,Sneakers,Women,All Season,75.39,45.23,38-44,7,2022-08-25,True
+PRD00164,Ellie Sandals Sport,Ellie,Sandals,Men,All Season,147.12,88.27,38-45,5,2023-08-25,True
+PRD00165,Vans Casual Shoes Classic,Vans,Casual Shoes,Kids,All Season,27.68,16.61,36-46,7,2024-01-20,True
+PRD00166,Adidas Kids Shoes Style,Adidas,Kids Shoes,Women,Spring/Summer,224.43,134.66,38-43,7,2024-11-21,True
+PRD00167,Deichmann Sneakers Comfort,Deichmann,Sneakers,Kids,All Season,98.35,59.01,37-45,7,2023-01-17,False
+PRD00168,Adidas Slippers Classic,Adidas,Slippers,Unisex,Fall/Winter,67.58,40.55,37-43,7,2022-07-28,True
+PRD00169,Victory Sandals Comfort,Victory,Sandals,Men,All Season,63.81,38.29,36-43,6,2024-10-19,False
+PRD00170,Skechers Slippers Classic,Skechers,Slippers,Kids,Spring/Summer,72.1,43.26,36-43,5,2021-10-24,True
+PRD00171,Deichmann Sports Shoes Comfort,Deichmann,Sports Shoes,Unisex,Spring/Summer,78.07,46.84,37-44,6,2024-01-20,True
+PRD00172,Vans Casual Shoes Style,Vans,Casual Shoes,Women,Spring/Summer,106.8,64.08,37-43,5,2023-11-06,True
+PRD00173,Victory Boots Sport,Victory,Boots,Kids,Fall/Winter,99.89,59.93,36-45,3,2022-07-20,True
+PRD00174,Skechers Slippers Sport,Skechers,Slippers,Unisex,All Season,124.25,74.55,36-46,8,2024-05-31,True
+PRD00175,Rieker High Heels Classic,Rieker,High Heels,Kids,Spring/Summer,139.23,83.54,35-46,6,2021-02-18,True
+PRD00176,Adidas Casual Shoes Premium,Adidas,Casual Shoes,Unisex,Spring/Summer,162.64,97.59,38-42,6,2022-07-01,True
+PRD00177,Tamaris Sandals Premium,Tamaris,Sandals,Unisex,Fall/Winter,93.3,55.98,38-44,7,2020-02-14,False
+PRD00178,Vans Sneakers Style,Vans,Sneakers,Women,All Season,29.48,17.69,37-42,6,2020-05-03,True
+PRD00179,Tamaris Sneakers Sport,Tamaris,Sneakers,Kids,Fall/Winter,43.39,26.03,38-44,5,2022-07-07,False
+PRD00180,Skechers Boots Classic,Skechers,Boots,Women,All Season,131.83,79.1,36-46,5,2022-12-19,True
+PRD00181,Victory Formal Shoes Style,Victory,Formal Shoes,Men,Spring/Summer,147.19,88.32,38-46,5,2024-08-13,True
+PRD00182,Puma High Heels Classic,Puma,High Heels,Kids,Spring/Summer,83.74,50.24,35-45,6,2024-04-17,True
+PRD00183,Puma Formal Shoes Style,Puma,Formal Shoes,Men,Spring/Summer,145.8,87.48,35-43,7,2020-03-31,False
+PRD00184,Tamaris Formal Shoes Comfort,Tamaris,Formal Shoes,Women,Spring/Summer,38.21,22.92,36-46,4,2023-03-28,True
+PRD00185,Puma Sports Shoes Style,Puma,Sports Shoes,Women,All Season,131.63,78.98,37-44,2,2023-02-14,True
+PRD00186,Ellie Kids Shoes Style,Ellie,Kids Shoes,Unisex,Spring/Summer,146.39,87.83,37-45,5,2020-11-01,True
+PRD00187,Skechers Sandals Comfort,Skechers,Sandals,Unisex,Spring/Summer,130.4,78.24,36-45,2,2023-02-25,False
+PRD00188,Skechers Slippers Sport,Skechers,Slippers,Women,Fall/Winter,51.56,30.94,37-42,5,2024-09-30,True
+PRD00189,Nike Slippers Premium,Nike,Slippers,Women,Spring/Summer,82.34,49.4,35-42,3,2024-07-05,True
+PRD00190,Tamaris Formal Shoes Classic,Tamaris,Formal Shoes,Kids,Fall/Winter,144.4,86.64,36-43,7,2020-08-28,False
+PRD00191,Puma Formal Shoes Comfort,Puma,Formal Shoes,Unisex,Spring/Summer,137.64,82.58,38-45,6,2023-08-21,True
+PRD00192,Vans Sports Shoes Style,Vans,Sports Shoes,Kids,All Season,134.76,80.85,35-45,8,2024-09-15,True
+PRD00193,Puma Casual Shoes Sport,Puma,Casual Shoes,Kids,Fall/Winter,38.9,23.34,36-42,4,2023-02-07,False
+PRD00194,Vans Sandals Premium,Vans,Sandals,Women,Fall/Winter,49.89,29.94,36-45,6,2023-09-02,True
+PRD00195,Vans High Heels Comfort,Vans,High Heels,Unisex,Fall/Winter,41.86,25.12,36-43,7,2023-01-24,False
+PRD00196,Adidas Slippers Classic,Adidas,Slippers,Men,All Season,36.58,21.95,35-42,5,2020-10-08,True
+PRD00197,Nike Sandals Comfort,Nike,Sandals,Men,Spring/Summer,128.6,77.16,35-46,7,2023-09-27,False
+PRD00198,Ellie High Heels Style,Ellie,High Heels,Men,Spring/Summer,89.18,53.51,35-42,6,2024-01-19,True
+PRD00199,Rieker Sports Shoes Style,Rieker,Sports Shoes,Men,All Season,125.7,75.42,36-42,2,2022-12-09,True
+PRD00200,Puma Formal Shoes Style,Puma,Formal Shoes,Kids,Fall/Winter,82.11,49.27,35-44,5,2022-07-29,True

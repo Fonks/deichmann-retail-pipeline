@@ -1,0 +1,51 @@
+store_id,store_name,city,store_type,size_category,size_sqm,opening_date,is_active
+ST0001,Deichmann Karlsruhe,Karlsruhe,City Center,Small,194,2011-07-26,True
+ST0002,Deichmann Mannheim,Mannheim,City Center,Extra Large,712,2012-08-10,True
+ST0003,Deichmann Bielefeld,Bielefeld,Shopping Mall,Extra Large,743,2019-01-29,True
+ST0004,Deichmann Gelsenkirchen,Gelsenkirchen,Shopping Mall,Extra Large,711,2020-09-25,True
+ST0005,Deichmann Köln,Köln,City Center,Extra Large,910,2012-12-19,True
+ST0006,Deichmann Wiesbaden,Wiesbaden,Flagship Store,Small,148,2019-04-21,True
+ST0007,Deichmann Bonn,Bonn,Shopping Mall,Small,105,2013-03-31,True
+ST0008,Deichmann Chemnitz,Chemnitz,Shopping Mall,Small,148,2019-05-10,True
+ST0009,Deichmann Stuttgart,Stuttgart,Outlet,Large,469,2020-07-03,True
+ST0010,Deichmann Münster,Münster,Shopping Mall,Medium,319,2020-05-18,True
+ST0011,Deichmann Mannheim,Mannheim,Outlet,Small,129,2013-01-01,True
+ST0012,Deichmann Düsseldorf,Düsseldorf,Outlet,Medium,328,2015-02-23,True
+ST0013,Deichmann Essen,Essen,Shopping Mall,Medium,344,2018-05-18,False
+ST0014,Deichmann Kiel,Kiel,Flagship Store,Large,531,2011-01-08,True
+ST0015,Deichmann Chemnitz,Chemnitz,City Center,Medium,241,2016-09-08,True
+ST0016,Deichmann Hannover,Hannover,Flagship Store,Extra Large,606,2017-08-18,True
+ST0017,Deichmann Mannheim,Mannheim,Outlet,Large,512,2015-02-02,True
+ST0018,Deichmann Wiesbaden,Wiesbaden,Outlet,Medium,228,2019-06-10,True
+ST0019,Deichmann Frankfurt,Frankfurt,Outlet,Medium,400,2016-09-19,True
+ST0020,Deichmann Bochum,Bochum,City Center,Small,146,2012-09-13,True
+ST0021,Deichmann München,München,Flagship Store,Small,197,2011-06-10,False
+ST0022,Deichmann Bielefeld,Bielefeld,Shopping Mall,Large,509,2020-06-01,True
+ST0023,Deichmann Augsburg,Augsburg,Outlet,Extra Large,825,2020-02-02,False
+ST0024,Deichmann Köln,Köln,Shopping Mall,Medium,287,2016-03-18,True
+ST0025,Deichmann Bonn,Bonn,Shopping Mall,Small,109,2012-07-26,True
+ST0026,Deichmann Kiel,Kiel,City Center,Large,461,2017-07-03,False
+ST0027,Deichmann Düsseldorf,Düsseldorf,Shopping Mall,Extra Large,698,2011-01-22,True
+ST0028,Deichmann Mannheim,Mannheim,Flagship Store,Large,520,2010-08-10,True
+ST0029,Deichmann Hamburg,Hamburg,Flagship Store,Large,450,2016-01-06,False
+ST0030,Deichmann Frankfurt,Frankfurt,Flagship Store,Medium,319,2014-12-21,True
+ST0031,Deichmann Hamburg,Hamburg,City Center,Small,196,2015-06-13,False
+ST0032,Deichmann Düsseldorf,Düsseldorf,Flagship Store,Small,121,2012-12-22,False
+ST0033,Deichmann Leipzig,Leipzig,Flagship Store,Extra Large,712,2020-11-11,True
+ST0034,Deichmann Bonn,Bonn,City Center,Large,550,2015-08-22,True
+ST0035,Deichmann Hamburg,Hamburg,City Center,Medium,353,2019-09-01,True
+ST0036,Deichmann Hannover,Hannover,City Center,Medium,353,2010-12-02,False
+ST0037,Deichmann Mannheim,Mannheim,Outlet,Large,584,2012-09-04,True
+ST0038,Deichmann Hannover,Hannover,Shopping Mall,Large,593,2010-02-08,False
+ST0039,Deichmann Münster,Münster,City Center,Small,168,2011-06-27,True
+ST0040,Deichmann Kiel,Kiel,City Center,Medium,273,2019-05-09,True
+ST0041,Deichmann Münster,Münster,City Center,Large,435,2011-04-18,True
+ST0042,Deichmann Wiesbaden,Wiesbaden,Shopping Mall,Large,454,2013-11-05,True
+ST0043,Deichmann Mannheim,Mannheim,Outlet,Extra Large,925,2014-10-01,True
+ST0044,Deichmann Hamburg,Hamburg,City Center,Large,564,2011-10-24,False
+ST0045,Deichmann Bielefeld,Bielefeld,Flagship Store,Small,114,2016-02-13,True
+ST0046,Deichmann Braunschweig,Braunschweig,Outlet,Medium,233,2014-02-02,True
+ST0047,Deichmann Kiel,Kiel,Outlet,Medium,264,2013-12-19,False
+ST0048,Deichmann Münster,Münster,Shopping Mall,Medium,246,2012-01-05,True
+ST0049,Deichmann Mönchengladbach,Mönchengladbach,Flagship Store,Medium,241,2014-04-16,True
+ST0050,Deichmann Chemnitz,Chemnitz,Flagship Store,Medium,318,2019-03-15,True
